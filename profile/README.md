@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+The OpenBioMaps is community based project to support biodiversity data management
+
 <!--
 
 **Here are some ideas to get you started:**
