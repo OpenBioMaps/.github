@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-The OpenBioMaps is community based project to support biodiversity data management
+The OpenBioMaps is community based project to support biodiversity data management.
+
+We also use gitlab to store our codes. Please visit the https://gitlab.com/openbiomaps for further information.
 
 <!--
 
